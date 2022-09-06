@@ -7,6 +7,7 @@
 }
 body {
   font-family: "Montserrat", sans-serif;
+  background-color: #060c21;
 }
 main {
   display: flex;
@@ -38,7 +39,7 @@ a {
 }
 .link {
   height: 2.75rem;
-  width: 400px;
+  width: 600px;
 
   display: flex;
   align-items: center;
@@ -53,7 +54,14 @@ a {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 1rem;
+  color: white;
 }
+.about {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    color: white;
+  }
 .link span {
   width: 80%;
   text-align: center;
@@ -72,7 +80,8 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #99e2b4;
+    #EBC7E8;
+    color: white;
 }
 .link:nth-child(2) {
   background: linear-gradient(
@@ -80,7 +89,8 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #88d4ab;
+    #BFACE0;
+    color: white;
 }
 .link:nth-child(3) {
   background: linear-gradient(
@@ -88,7 +98,8 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #78c6a3;
+    #A084CA;
+    color: white;
 }
 .link:nth-child(4) {
   background: linear-gradient(
@@ -96,7 +107,8 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #67b99a;
+    #645CAA;
+    color: white;
 }
 .link:nth-child(5) {
   background: linear-gradient(
@@ -104,7 +116,8 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #56ab91;
+    #49437d;
+    color: white;
 }
 .link:nth-child(6) {
   background: linear-gradient(
@@ -112,7 +125,7 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #469d89;
+    #403b6c;
   color: white;
 }
 .link:nth-child(7) {
@@ -121,7 +134,7 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #358f80;
+    #393461;
   color: white;
 }
 .link:nth-child(8) {
@@ -130,7 +143,7 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #248277;
+    #37335f;
   color: white;
 }
 .link:nth-child(9) {
