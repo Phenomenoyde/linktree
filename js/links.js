@@ -30,11 +30,6 @@ export const links = [
       image: "./assets/medium.png",
     },
     {
-      name: "Sacler Articles",
-      link: "https://github.com/bhartik021",
-      image: "./assets/scaler.png",
-    },
-    {
       name: "GeeksforGeeks Articles",
       link: "https://github.com/bhartik021",
       image: "./assets/geeksforgeeks.png",
