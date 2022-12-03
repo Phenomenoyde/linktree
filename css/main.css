@@ -25,6 +25,7 @@ a {
   height: 100%;
   width: 100%;
   border-radius: 50%;
+  margin-top: 8%;
 }
 .logoContainer {
   margin: 1rem 0;
@@ -32,6 +33,7 @@ a {
   height: 225px;
   aspect-ratio: 1;
   border-radius: 50%;
+  margin-bottom: 2rem;
 }
 .links {
   display: flex;
@@ -53,13 +55,13 @@ a {
 .greetings {
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   color: white;
 }
 .about {
     font-size: 1rem;
     font-weight: 500;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     color: white;
   }
 .link span {
@@ -134,34 +136,7 @@ a {
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
-    #393461;
-  color: white;
-}
-.link:nth-child(8) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #37335f;
-  color: white;
-}
-.link:nth-child(9) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #14746f;
-  color: white;
-}
-.link:nth-child(10) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #036666;
+    #211d38;
   color: white;
 }
 .link:hover {
