@@ -1,4 +1,5 @@
 # linktree
+Own Linktree using HTML, CSS and JavaScript
 
 ## Project Structure:
 
